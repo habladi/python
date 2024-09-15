@@ -1,3 +1,1 @@
-from pyinfo import pyinfo
-
-print(pyinfo())
+print("Goodbye, World!")
